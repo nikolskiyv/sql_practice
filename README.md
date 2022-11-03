@@ -1,3 +1,3 @@
 # sql-ex-solutions
 
-Solutions to sql exercises from http://sql-ex.ru
+Tasks for the practice of writing sql queries and designing schemas
