@@ -1,0 +1,2 @@
+SELECT * FROM SALES_ORDER
+WHERE order_date > to_date('01-01-2016', 'DD-MM-YYYY')
